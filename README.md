@@ -8,9 +8,19 @@
 [![GitHub](https://img.shields.io/badge/GitHub-RaoAbullah-181717?style=for-the-badge&logo=github)](https://github.com/RaoAbullah)
 [![Live SaaS](https://img.shields.io/badge/Live%20SaaS-PrepMaster-00C7B7?style=for-the-badge&logo=vercel)](https://raoabullah.github.io/Interviewpractice/)
 
-**Data Science & Machine Learning Engineer | Distributed Systems & Multi-Agent AI Architect**  
+**AI & Machine Learning Engineer | Spatial Intelligence & Distributed Systems Architect**  
 🎓 *B.E. Computer Systems Engineering (Class of Dec 2026) — Mehran University of Engineering & Technology (MUET), Jamshoro*  
-📍 *Jamshoro / Hyderabad / Karachi, Sindh, Pakistan*
+📍 *Islamabad / Karachi / Hyderabad, Pakistan (Open to On-Site & Global Remote Roles)*
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  🏆 National Finalist (Top 300 / 16k+ Teams) — Alibaba Cloud AI Hackathon Pakistan      │
+│  🏅 11th Position Nationwide & Regional Shortlist — Google for Developers AI Seekho   │
+│  📜 Scholarly Research Presenter — DecentraSec × ScholarMark × ACM (UN SDG 13)         │
+│  💼 5 Engineering Internships Completed across AI, Full-Stack, Data & Hardware         │
+│  🧪 654 Automated Test Suites Passed (100% Pass Rate) | 17 Verified Certifications    │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -22,8 +32,13 @@
 - [National Honors & Scholarly Contributions](#-national-honors--scholarly-contributions)
 - [Professional Work Experience (5 Internships)](#-professional-work-experience-5-internships)
 - [Featured Flagship Projects](#-featured-flagship-projects)
+  - [1. STAFDRS: Spatio-Temporal AI Framework for Sindh Desertification Risk (FYP)](#1-🛰️-stafdrs-spatio-temporal-ai-framework-for-sindh-desertification-risk-fyp)
+  - [2. TadbeerAI 2.0: Multi-Agent Financial Inclusion AI Platform](#2-🤖-tadbeerai-20-trilingual-financial-inclusion-ai-platform)
+  - [3. RaftFS: Fault-Tolerant Distributed Consensus Storage Engine & 3D WebGL](#3-⚡-raftfs-fault-tolerant-distributed-consensus-storage-engine)
+  - [4. PrepMaster: In-Browser Privacy-First AI Mock Interview SaaS](#4-🎙️-prepmaster--interviewpractice-ai-interview-simulator-saas)
+  - [5. GuardPulse: Dual-Verification GLOF Early Warning System (UN SDG 13)](#5-🛡️-guardpulse-multi-channel-fail-safe-early-warning-system-un-sdg-13)
 - [Full Project Portfolio (15 Systems & Engineering Projects)](#-full-project-portfolio)
-- [Complete Certifications Roster (16 Verified)](#-complete-certifications-roster-16-verified)
+- [Complete Certifications Roster (17 Verified)](#-complete-certifications-roster-17-verified)
 - [Comprehensive Technical Skills Matrix](#-comprehensive-technical-skills-matrix)
 - [GitHub Activity & Analytics](#-github-activity--analytics)
 - [Let's Connect](#-lets-connect)
@@ -32,13 +47,12 @@
 
 ## 🚀 Executive Overview
 
-I am a Data Science and Machine Learning Engineer specializing in **predictive modeling**, **deterministic multi-agent GenAI architectures**, and **fault-tolerant distributed storage systems**. 
+I am an AI and Software Engineer specializing in **spatial intelligence, satellite remote sensing, multi-agent GenAI architectures, and fault-tolerant distributed storage systems**. My work bridges the gap between mathematically rigorous machine learning algorithms and high-throughput production software backends.
 
-- 🏆 **National Finalist (Top 300 / 16,000+ Teams):** Alibaba Cloud AI Hackathon Pakistan 2026 with **TadbeerAI 2.0** — evaluated at NASTP Karachi.
-- 🎯 **11th Position Nationwide & Regional Shortlist:** Google for Developers **AI Seekho 2026 Google Antigravity Hackathon**.
-- 📜 **Scholarly Research Presenter:** Authored and presented **GuardPulse** (a fail-safe multi-channel early warning system under **UN SDG 13: Climate Action**) at the DecentraSec & ACM Student Chapter Symposium.
-- 💼 **5 Completed Engineering Internships:** Spanning AI engineering, full-stack software development, data analysis, and hardware digital design.
-- 🧪 **High Engineering Rigor:** Developed production ML systems benchmarked across **654 automated test suites** with sub-70ms distributed search performance and 100% mathematical determinism.
+* **Satellite Remote Sensing & Spatial AI:** Architected an end-to-end cloud ETL pipeline on Google Earth Engine ingesting **38 multi-modal satellite channels** (Sentinel-1 SAR radar, Sentinel-2 optical, MODIS thermal, CHIRPS precipitation, TerraClimate, SoilGrids) across all 30 districts of Sindh (140,914 km²). Built a 13.3M-parameter Spatio-Temporal UNet achieving **$R^2 = 0.8543$, Pearson $r = 0.9581$, and 91.9% recall** on 53M+ test pixels, paired with a ConvGRU-UNet forecaster predicting land degradation to 2030.
+* **Agentic GenAI & Mathematical Determinism:** Designed a supervisor-directed LangGraph multi-agent financial engine backed by Python `Decimal` arithmetic—guaranteeing 100% zero-hallucination calculations across 654 automated test suites. Qualified as a **National Finalist (Top 300 out of 16,000+ submissions)** at the Alibaba Cloud AI Hackathon Pakistan.
+* **Distributed Consensus & 3D WebGL Systems:** Engineered **RaftFS**, a distributed document storage engine in Node.js implementing Raft consensus with dynamic leader election, quorum verification, sub-70ms parallel MapReduce queries, self-healing in <2.5 seconds, and an interactive Three.js 3D WebGL cluster topology dashboard with Chaos Monkey fault injection.
+* **High Engineering Discipline:** 5 completed engineering internships across AI engineering, full-stack web development, data analytics, and digital logic design; holder of **17 industry certifications** including Google AI Essentials, DeepLearning.AI, and Google Cloud GenAI.
 
 ---
 
@@ -48,9 +62,9 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 * **Institution:** Mehran University of Engineering & Technology (MUET), Jamshoro, Pakistan
 * **Tenure:** Dec 2022 – Dec 2026 (Expected Graduation: Dec 2026)
 * **Cumulative GPA (CGPA):** **3.21 / 4.00**
-* **Total Completed Credit Hours:** **117 Credit Hours** | **Quality Points:** 376.0 | **Semesters:** 7
+* **Total Completed Credit Hours:** **117 Credit Hours** | **Quality Points:** 376.0 | **Semesters Completed:** 7
 * **Academic Failures:** **0 Failures** across all 7 semesters (100% clean transcript)
-* **Semester GPA Trajectory (Strong Upward Trend):**
+* **Upward Semester GPA Trajectory:**
   - **Semester 1:** 2.71 GPA (5 subjects) — Pass
   - **Semester 2:** 3.30 GPA (5 subjects) — Pass
   - **Semester 3:** 3.33 GPA (6 subjects) — Pass
@@ -58,12 +72,10 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
   - **Semester 5:** 3.14 GPA (5 subjects) — Pass
   - **Semester 6:** **3.47 GPA** (5 subjects) — Pass
   - **Semester 7:** **3.44 GPA** (5 subjects) — Pass
-* **Relevant Coursework:** Data Structures & Algorithms (DSA), Database Management Systems (DBMS), Machine Learning & AI, Operating Systems, Computer Networks, Software Engineering, Object-Oriented Programming (OOP), Computer Architecture, Microprocessor Systems, Digital Logic Design, Digital Signal Processing, Web Technologies.
+* **Core Coursework:** Data Structures & Algorithms (DSA), Database Management Systems (DBMS), Machine Learning & AI, Operating Systems, Computer Networks, Software Engineering, Object-Oriented Programming (OOP), Computer Architecture, Microprocessor Systems, Digital Logic Design, Digital Signal Processing, Web Technologies.
 
 ### **Intermediate (HSC) — Pre-Engineering**
-* **Institution:** The City School
-* **Duration:** Nov 2020 – Nov 2022
-* **Grade:** **Grade A1**
+* **Institution:** The City School | **Duration:** Nov 2020 – Nov 2022 | **Grade:** **Grade A1**
 
 ### **Specialized Creative Training**
 * **Cinematography & Visual Production:** GFX Mentor (Apr 2021 – Dec 2021)
@@ -78,7 +90,7 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 ├───────────────────────────────────────────────────────────────────────────────────────────┤
 │  1. Alibaba Cloud AI Hackathon 2026: National Finalist (Top 300 of 16,000+ Submissions)   │
 │  2. Google AI Seekho 2026 National Hackathon: 11th Position Nationwide & Regional Winner  │
-│  3. DecentraSec & ACM Symposium: Scholarly Presentation on UN SDG 13 (GuardPulse GLOF)   │
+│  3. DecentraSec & ACM Symposium: Scholarly Research on UN SDG 13 (GuardPulse GLOF)        │
 └───────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -105,35 +117,35 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 ## 💼 Professional Work Experience (5 Internships)
 
 ### 1. 🌐 Web Developer Intern — SoloGenAI Pvt. Ltd.
-* **Duration:** 3 Months (2026) | Remote
+* **Duration:** Jul 2026 – Sep 2026 (3 Months) | Remote
 * **Core Responsibilities & Impact:**
   - Engineered full-stack web applications and user-facing modules using modern JavaScript and component-based frontend architectures.
   - Integrated high-throughput REST API endpoints connecting internal generative AI services with web clients.
   - Optimized client-side page load times and state rendering across cross-browser environments.
 
 ### 2. 🧠 AI Engineer Intern — Decode Lab.tech
-* **Duration:** 1 Month (2026) | Remote
+* **Duration:** Jun 2026 – Jul 2026 (1 Month) | Remote
 * **Core Responsibilities & Impact:**
   - Architected production AI systems, focused on generative AI pipelines, model evaluation benchmarks, and prompt optimization.
   - Evaluated LLM inference latency, error handling fallbacks, and backend agentic integrations.
   - Built automated evaluation scripts to validate outputs against structured schemas.
 
 ### 3. 📊 Data Analysis Intern — Qwetrum Technologies
-* **Duration:** 1 Month (June 2026) | Remote
+* **Duration:** Jun 2026 (1 Month) | Remote
 * **Core Responsibilities & Impact:**
   - Designed automated ETL data-cleaning pipelines using Python, Pandas, and NumPy for real-world tabular datasets.
   - Conducted extensive Exploratory Data Analysis (EDA) to detect outliers, impute missing records, and uncover statistical trends.
-  - Delivered visual business intelligence dashboards and diagnostic reports using Matplotlib and Seaborn.
+  - Delivered visual business intelligence dashboards and diagnostic reports with zero pipeline crashes.
 
 ### 4. 🎙️ AI SaaS Product Developer Intern — Technologia Solutions LLC (USA)
-* **Duration:** 2 Months (Dec 15, 2025 – Feb 15, 2026) | Remote
+* **Duration:** Dec 15, 2025 – Feb 15, 2026 (2 Months) | Remote
 * **Core Responsibilities & Impact:**
   - Built the production MVP of **PrepMaster / Interviewpractice**, an interactive AI mock-interview web platform.
   - Implemented 100% client-side video and audio capture via HTML5 `MediaRecorder` API, eliminating cloud storage bandwidth costs and ensuring strict user privacy.
   - Integrated Supabase for secure session authentication, token handling, and database synchronization.
 
 ### 5. ⚡ Digital Logic Designer Intern — Dept. of Electronic Engineering, MUET
-* **Duration:** 1 Month (January 2024) | On-site
+* **Duration:** Jan 2024 (1 Month) | On-site
 * **Core Responsibilities & Impact:**
   - Designed, simulated, and tested combinational and sequential digital logic circuits.
   - Verified logic gate architectures, counter ICs, flip-flops, and decoder circuits using hardware breadboards and Verilog/ModelSim simulations.
@@ -142,8 +154,39 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 
 ## 🌟 Featured Flagship Projects
 
-### 1. 🤖 [TadbeerAI 2.0: Trilingual Financial Inclusion AI Platform](https://github.com/RaoAbullah/tadbeer-ai)
-> **National Finalist (Top 300 / 16,000+ teams) at Alibaba Cloud AI Hackathon Pakistan 2026**
+### 1. 🛰️ [STAFDRS: Spatio-Temporal AI Framework for Sindh Desertification Risk](https://github.com/RaoAbullah/sindh-desertification-risk-prediction-and-forecasting)
+> **Final Year Engineering Capstone Project (FYP) | 50/50 Co-Lead with [@ahmedfarazsyk](https://github.com/ahmedfarazsyk)**  
+> **Tech Stack:** Python, PyTorch, Google Earth Engine, FastAPI, Next.js 16, MongoDB Atlas, Supabase, Tailwind CSS
+
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                                STAFDRS SYSTEM ARCHITECTURE                             │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  1. Multi-Sensor Satellite Feeds (38 Channels): Sentinel-1/2, MODIS, CHIRPS, TerraGrid │
+│  2. Continuous MEDALUS Framework: CQI × VQI × SQI × LQI ──► Target Continuous DSI      │
+│  3. Model A (13.3M CNN-UNet): High-Res Spatial Estimator (R² = 0.8543, Recall = 91.9%) │
+│  4. Model B (2.3M ConvGRU-UNet): Spatio-Temporal Seq2Seq Forecasting (2026 ──► 2030)  │
+│  5. Dual DB: MongoDB Atlas (Rasters/Patches) + Supabase (PostGIS Vectors/Users/Audits) │
+│  6. Generative AI: Google Gemini Multimodal RAG Copilot for Policy Briefs & Audits     │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+* **Multi-Source Satellite Integration (38 Channels):** Harmonized Sentinel-1 SAR (VV, VH backscatter, RFDI, RVI), Sentinel-2 Multispectral (B2-B8A, B11-B12, NDVI, SAVI, NDWI, EVI, MNDWI), MODIS Land Surface Temperature (LST Day/Night), CHIRPS precipitation, TerraClimate, SoilGrids physical properties, SRTM topography, VIIRS nightlights, Dynamic World land cover, and socioeconomic variables covering all 30 districts of Sindh (140,914 km², 2016–2026).
+* **Continuous MEDALUS Sensitivity Benchmarking:** Adapted Mediterranean Desertification and Land Use framework into continuous quantitative sub-indices: Climate Quality Index (CQI), Vegetation Quality Index (VQI), Soil Quality Index (SQI), and Land Management Quality Index (LQI) to formulate the target **Desertification Sensitivity Index (DSI)** ($0.0$ to $1.0$).
+* **Dual Deep Learning Architecture:**
+  - **Model A (UNet Estimator):** 13.3M-parameter Spatio-Temporal UNet ($[B, 33, 64, 64] \to [B, 1, 64, 64]$) achieving **$R^2 = 0.8543$, Pearson $r = 0.9581$, and 91.9% recall** on 53M+ held-out test pixels.
+  - **Model B (ConvGRU-UNet Forecaster):** 2.3M-parameter recurrent spatio-temporal Seq2Seq network ($[B, 5, 38, 64, 64] \to [B, 5, 1, 64, 64]$) autoregressively predicting multi-year quarterly desertification trajectory from 2026 to 2030.
+* **Dual Database Architecture & Generative AI Copilot:**
+  - **MongoDB Atlas:** Geospatial document store hosting raw multidimensional satellite raster grids, pixel-level training patches, and temporal climate series.
+  - **Supabase (PostgreSQL + PostGIS):** Relational spatio-temporal store managing vector administrative boundaries for all 30 districts of Sindh, authenticated user sessions, analysis runs, and audit logs.
+  - **Google Gemini Multimodal RAG Copilot:** Domain-grounded generative AI assistant translating technical spatial metrics into district-level ecological vulnerability reports and policy interventions.
+* **Repository Link:** [github.com/RaoAbullah/sindh-desertification-risk-prediction-and-forecasting](https://github.com/RaoAbullah/sindh-desertification-risk-prediction-and-forecasting)
+
+---
+
+### 2. 🤖 [TadbeerAI 2.0: Trilingual Financial Inclusion AI Platform](https://github.com/RaoAbullah/tadbeer-ai)
+> **National Finalist (Top 300 / 16,000+ teams) at Alibaba Cloud AI Hackathon Pakistan 2026**  
+> **Tech Stack:** LangGraph, Python (Decimal), Flutter, Dart, Riverpod, Gemini API, Groq, Firebase Auth, Firestore, World Bank API, SBP KIBOR, PBS SPI
 
 ```
                      ┌────────────────────────────────┐
@@ -170,36 +213,26 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 * **Deterministic Math Engine:** Built a 100% hallucination-free calculation core in Python `Decimal` and Dart computing 5-Pillar Financial Health Scores (0–100), expense shock simulations, and savings runway projections.
 * **Live Economic Data Feeds:** Integrated live macroeconomic data from World Bank APIs, Pakistan Bureau of Statistics (PBS) Sensitive Price Indicator (SPI) covering 16+ essential commodities, and State Bank of Pakistan (SBP) KIBOR rates with provenance badges.
 * **Production Flutter Mobile App:** Delivered a complete mobile app with Riverpod state management, offline-first encrypted storage, Firebase Authentication, trilingual localization (English, اردو, Roman Urdu), and **654 automated test suites passing with a 100% rate**.
+* **Repository Link:** [github.com/RaoAbullah/tadbeer-ai](https://github.com/RaoAbullah/tadbeer-ai)
 
 ---
 
-### 2. ⚡ [RaftFS: Fault-Tolerant Distributed Consensus Storage Engine](https://github.com/RaoAbullah/raftfs)
-> **High-Performance Distributed Document Store with 3D WebGL Mesh Visualizer**
+### 3. ⚡ [RaftFS: Fault-Tolerant Distributed Consensus Storage Engine](https://github.com/RaoAbullah/raftfs)
+> **High-Performance Distributed Document Store with 3D WebGL Mesh Visualizer**  
+> **Tech Stack:** Node.js, TypeScript, Three.js, WebGL, MapReduce, Raft Consensus, SHA-256
 
 * **Raft Consensus Implementation:** Built a distributed document storage engine in **Node.js & TypeScript** implementing leader election with randomized timeouts, log replication, heartbeat monitoring, and strict majority quorum ($\lfloor N/2 \rfloor + 1$).
 * **Cryptographic Integrity:** SHA-256 block hashing on every log entry ensuring zero-tamper data replication across cluster nodes.
 * **Sub-70ms Parallel MapReduce Search:** Engineered a distributed query engine where search requests are mapped in parallel across active cluster partitions and reduced/deduplicated in **sub-70ms**.
 * **Self-Healing Failover:** Automated heartbeat failure detection and dynamic cluster catch-up synchronization recovering failed nodes in **<2.5 seconds** with zero data loss.
 * **Interactive 3D WebGL Visualizer:** Developed an interactive **Three.js** dashboard illustrating live cluster state, node topology, network latency, and built-in **Chaos Monkey** fault-injection tools (network partitions, node kills, leader crashes).
-
----
-
-### 3. 🛰️ [GeoRisk-AI: Satellite Geospatial Desertification Forecasting Engine](https://github.com/RaoAbullah/fyp_project)
-> **Final Year Engineering Capstone Project | Earth Observation & Deep Learning**
-
-* **Satellite Data Ingestion:** Automated multi-spectral satellite ingestion pipeline leveraging the Google Earth Engine (GEE) API across all 30 districts of Sindh.
-* **Bioclimatic Feature Engineering:** Extracted and engineered **20+ geospatial feature vectors**:
-  - Optical & Vegetation Indices: NDVI, SAVI, NDWI, MSI, EVI
-  - Thermal & Land Surface: Land Surface Temperature (LST), Soil Moisture
-  - Radar & SAR: Sentinel-1 C-band Synthetic Aperture Radar backscatter
-  - Climate: NASA MODIS, CHIRPS Precipitation, and TerraClimate grids
-* **Deep Learning Benchmarking:** Evaluated CNN, LSTM, Deep MLP, Random Forest, SVM, and Temporal Transformers to forecast multi-year land degradation vulnerability (2025–2030).
-* **Automated REST Reporting:** Built a FastAPI backend generating automated environmental vulnerability audits for policy makers and researchers.
+* **Repository Link:** [github.com/RaoAbullah/raftfs](https://github.com/RaoAbullah/raftfs)
 
 ---
 
 ### 4. 🎙️ [PrepMaster / Interviewpractice: AI Interview Simulator SaaS](https://raoabullah.github.io/Interviewpractice/)
-> **Production SaaS Platform Built During AI SaaS Developer Internship**
+> **Production SaaS Platform Built During AI SaaS Developer Internship**  
+> **Tech Stack:** JavaScript (ES6+), WebRTC MediaRecorder API, Supabase Auth, CSS Glassmorphism
 
 * **In-Browser Privacy Architecture:** Engineered complete client-side video/audio capture using native HTML5 `MediaRecorder` API, allowing candidates to record and review mock interview responses with zero cloud latency and total privacy.
 * **Dynamic Interview Engine:** Role-based question generator tailored to custom job descriptions with a 3-second transition countdown, 30-second structured preparation timer, and local WebM/MP4 downloads.
@@ -208,15 +241,28 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 
 ---
 
+### 5. 🛡️ GuardPulse: Multi-Channel Fail-Safe Early Warning System (UN SDG 13)
+> **Scholarly Presentation — DecentraSec × ScholarMark × ACM Student Chapter Symposium**  
+> **Domain:** IoT Concept, Disaster Risk Reduction, Fail-Safe Communication Protocols
+
+* **The Challenge:** 7.1 million people in Gilgit-Baltistan face constant threats from Glacial Lake Outburst Floods (GLOFs), where traditional warning systems fail when single communication lines (cellular towers or power grids) collapse during storms.
+* **Dual-Verification Protocol:** Requires matching signals from high-altitude solar-powered water-level sensors and local human lake watchers, preventing false alarms while ensuring zero misses.
+* **Triple-Redundant Alarm Dissemination:** Triggers simultaneous, non-blocking alerts across three independent channels:
+  1. Priority Cellular SMS Broadcasts.
+  2. Standalone Solar-Powered RF Sirens.
+  3. Hardwired/RF Community Mosque Loudspeaker Activation.
+
+---
+
 ## 💻 Full Project Portfolio
 
 | # | Project | Domain / Type | Key Technologies | Description & Highlights | Links |
 | :-: | :--- | :--- | :--- | :--- | :---: |
-| 1 | **TadbeerAI 2.0** | GenAI / FinTech | LangGraph, Python (Decimal), Flutter, Gemini, Groq | Trilingual personal finance multi-agent platform; 654 automated tests; live PBS/SBP feeds; Alibaba Cloud Hackathon National Finalist. | [Repo](https://github.com/RaoAbullah/tadbeer-ai) |
-| 2 | **RaftFS** | Distributed Systems | Node.js, TypeScript, Three.js, WebGL, MapReduce | Fault-tolerant Raft consensus storage engine, sub-70ms parallel MapReduce search, self-healing <2.5s, 3D Chaos Monkey visualizer. | [Repo](https://github.com/RaoAbullah/raftfs) |
-| 3 | **GeoRisk-AI** | Geospatial ML | FastAPI, GEE, TensorFlow, XGBoost, Sentinel-1/2 | Satellite desertification forecasting across Sindh; 20+ feature vectors; CNN/LSTM/Transformers multi-year forecasting. | [Repo](https://github.com/RaoAbullah/fyp_project) |
+| 1 | **STAFDRS (FYP)** | Geospatial AI / Remote Sensing | PyTorch, UNet, ConvGRU, GEE, FastAPI, Next.js 16, Supabase, MongoDB | Spatio-Temporal AI Framework for Sindh Desertification; 38 satellite channels; 13.3M-param UNet ($R^2=0.8543$); ConvGRU forecasting (2026–2030); Gemini Multimodal RAG. | [Repo](https://github.com/RaoAbullah/sindh-desertification-risk-prediction-and-forecasting) |
+| 2 | **TadbeerAI 2.0** | GenAI / FinTech | LangGraph, Python (Decimal), Flutter, Gemini, Groq | Trilingual personal finance multi-agent platform; 654 automated tests; live PBS/SBP feeds; Alibaba Cloud Hackathon National Finalist. | [Repo](https://github.com/RaoAbullah/tadbeer-ai) |
+| 3 | **RaftFS** | Distributed Systems | Node.js, TypeScript, Three.js, WebGL, MapReduce | Fault-tolerant Raft consensus storage engine, sub-70ms parallel MapReduce search, self-healing <2.5s, 3D Chaos Monkey visualizer. | [Repo](https://github.com/RaoAbullah/raftfs) |
 | 4 | **PrepMaster** | AI SaaS / WebRTC | JavaScript, WebRTC MediaRecorder, Supabase Auth | Mock interview SaaS with job description parsing, preparation timers, and zero-latency client-side recording. | [Demo](https://raoabullah.github.io/Interviewpractice/) |
-| 5 | **GuardPulse** | Early Warning System | IoT Concept, Multi-Channel SMS/Siren/Mosque | Fail-safe dual-signal GLOF disaster early warning system protecting 7.1M vulnerable people in Gilgit-Baltistan (UN SDG 13). | [Details](#3--scholarly-contribution--idea-presentation--decentrasec--scholarmark--acm) |
+| 5 | **GuardPulse** | Early Warning System | IoT Concept, Multi-Channel SMS/Siren/Mosque | Fail-safe dual-signal GLOF disaster early warning system protecting 7.1M vulnerable people in Gilgit-Baltistan (UN SDG 13). | [Details](#5-️-guardpulse-multi-channel-fail-safe-early-warning-system-un-sdg-13) |
 | 6 | **Heart Disease Predictor** | Healthcare ML | Python, Scikit-learn, Pandas, Matplotlib | Clinical diagnostic classification model achieving **90.2% predictive accuracy** using Random Forest and cross-validated tuning on UCI Cleveland data. | [Repo](https://github.com/RaoAbullah/heart-disease-prediction) |
 | 7 | **Recovery-System API & GUI** | Systems Engineering | Python, Flask, Tkinter, Multi-Threading | Dual-plane system recovery manager combining versioned RESTful Flask APIs (`/v2/systems`, `/v2/reboot`) with asynchronous Tkinter desktop GUI. | [Repo](https://github.com/RaoAbullah/Recovery-System-With-Flask-API-GUI) |
 | 8 | **FlavorCraft (recipe-finder)** | Full-Stack Web App | Flask, SQLite, SQLAlchemy, Alembic, Spoonacular | Recipe discovery platform with secure user authentication (Flask-Login, Bcrypt), database migrations, and meal bookmarking. | [Repo](https://github.com/RaoAbullah/recipe-finder) |
@@ -230,7 +276,7 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 
 ---
 
-## 📜 Complete Certifications Roster (16 Verified)
+## 📜 Complete Certifications Roster (17 Verified)
 
 ```
 ┌─────┬────────────────────────────────────────────────────────┬──────────────────────────────────────────┬───────────┐
@@ -240,18 +286,19 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 │  2  │ National Finalist (Tadbeer AI, Top 300 / 16,000+)      │ Alibaba Cloud AI Hackathon Pakistan      │ Oct 2026  │
 │  3  │ Regional Shortlist & 11th Position Nationwide          │ AI Seekho 2026 (Google for Developers)   │ 2026      │
 │  4  │ AI SaaS Product Developer Internship Certificate       │ Technologia Solutions LLC (USA)          │ Feb 2026  │
-│  5  │ Mastering AI Email Agents Masterclass                  │ DataCrumbs                               │ Jan 2026  │
-│  6  │ The Startup Mindset                                    │ AIC-MUET                                 │ Nov 2025  │
-│  7  │ ALL MUET Talent Hunt V                                 │ MUDDS (Debating & Disciplinary Society)  │ Sep 2025  │
-│  8  │ Developing Your Emotional Intelligence                 │ LinkedIn Learning                        │ Sep 2025  │
-│  9  │ INCCST'25 International Conference Participation       │ MUET Jamshoro                            │ Feb 2025  │
-│ 10  │ Google Soft Skills Program                             │ PAFLA × Google                           │ Aug 2024  │
-│ 11  │ MATLAB Onramp Certificate                              │ MathWorks                                │ Aug 2024  │
-│ 12  │ AI for Everyone (Credential ID: 7CQ3H7T4ZX3M)          │ DeepLearning.AI                          │ May 2024  │
-│ 13  │ Digital Logic Designer Internship Certificate          │ Dept. of Electronic Engineering, MUET    │ Feb 2024  │
-│ 14  │ Introduction to Generative AI                          │ Google Cloud                             │ Dec 2023  │
-│ 15  │ Python Programming Bootcamp                            │ Open Weaver                              │ Nov 2023  │
-│ 16  │ HTML, CSS & JavaScript Bootcamp                        │ Open Weaver                              │ Nov 2023  │
+│  5  │ Google AI Essentials Specialization                    │ Google (Coursera)                        │ 2026      │
+│  6  │ Mastering AI Email Agents Masterclass                  │ DataCrumbs                               │ Jan 2026  │
+│  7  │ The Startup Mindset                                    │ AIC-MUET                                 │ Nov 2025  │
+│  8  │ ALL MUET Talent Hunt V                                 │ MUDDS (Debating & Disciplinary Society)  │ Sep 2025  │
+│  9  │ Developing Your Emotional Intelligence                 │ LinkedIn Learning                        │ Sep 2025  │
+│ 10  │ INCCST'25 International Conference Participation       │ MUET Jamshoro                            │ Feb 2025  │
+│ 11  │ Google Soft Skills Program                             │ PAFLA × Google                           │ Aug 2024  │
+│ 12  │ MATLAB Onramp Certificate                              │ MathWorks                                │ Aug 2024  │
+│ 13  │ AI for Everyone (Credential ID: 7CQ3H7T4ZX3M)          │ DeepLearning.AI                          │ May 2024  │
+│ 14  │ Digital Logic Designer Internship Certificate          │ Dept. of Electronic Engineering, MUET    │ Feb 2024  │
+│ 15  │ Introduction to Generative AI                          │ Google Cloud                             │ Dec 2023  │
+│ 16  │ Python Programming Bootcamp                            │ Open Weaver                              │ Nov 2023  │
+│ 17  │ HTML, CSS & JavaScript Bootcamp                        │ Open Weaver                              │ Nov 2023  │
 └─────┴────────────────────────────────────────────────────────┴──────────────────────────────────────────┴───────────┘
 ```
 
@@ -281,17 +328,18 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
       </td>
     </tr>
     <tr>
-      <td><strong>Machine Learning & Data Science</strong></td>
+      <td><strong>Spatial AI & Remote Sensing</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-        <img src="https://img.shields.io/badge/XGBoost-EB3C00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
         <img src="https://img.shields.io/badge/Google%20Earth%20Engine-2CA02C?style=flat-square&logo=google-earth&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sentinel--1%20SAR-003366?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sentinel--2%20Multispectral-008080?style=flat-square" />
+        <img src="https://img.shields.io/badge/CNN--UNet-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/ConvGRU-8A2BE2?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rasterio-2E8B57?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
         <br />
-        <em>Supervised/Unsupervised Learning, CNN, LSTM, Transformers, Random Forest, Feature Engineering, Cross-Validation</em>
+        <em>Multi-Sensor Harmonization (38 Channels), Continuous MEDALUS DSI, Spatio-Temporal Forecasting to 2030</em>
       </td>
     </tr>
     <tr>
@@ -302,18 +350,19 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
         <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google-gemini&logoColor=white" />
         <img src="https://img.shields.io/badge/Groq%20Inference-F55036?style=flat-square" />
         <br />
-        <em>Supervisor Routing, Prompt Optimization, Zero-Hallucination Deterministic Math Pipelines, Schema Enforcement</em>
+        <em>Supervisor Routing, Multimodal RAG Copilots, Zero-Hallucination Deterministic Math (Python Decimal), Schema Auditing</em>
       </td>
     </tr>
     <tr>
-      <td><strong>Distributed Systems & Graphics</strong></td>
+      <td><strong>Distributed Systems & 3D WebGL</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Raft%20Consensus-008080?style=flat-square" />
         <img src="https://img.shields.io/badge/MapReduce-E9711C?style=flat-square" />
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
         <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white" />
         <br />
-        <em>Dynamic Leader Election, Quorum Quotas ($\lfloor N/2 \rfloor + 1$), SHA-256 Verification, Chaos Monkey Injection</em>
+        <em>Dynamic Leader Election, Quorum Quotas ($\lfloor N/2 \rfloor + 1$), SHA-256 Hashing, Chaos Monkey Injection</em>
       </td>
     </tr>
     <tr>
@@ -323,14 +372,19 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </td>
     </tr>
     <tr>
-      <td><strong>DevOps & Software Rigor</strong></td>
+      <td><strong>Frontend, Cloud & DevOps</strong></td>
       <td>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=next.js&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Alibaba%20Cloud-FF6A00?style=flat-square&logo=alibabacloud&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
@@ -358,14 +412,14 @@ I am a Data Science and Machine Learning Engineer specializing in **predictive m
 
 ## 📬 Let's Connect!
 
-I am always open to collaborating on high-impact machine learning systems, distributed computing challenges, or agentic GenAI applications.
+I am always open to collaborating on high-impact machine learning systems, remote sensing/spatial intelligence projects, distributed computing engines, or agentic GenAI architectures.
 
 * 📧 **Direct Email:** [abdullahnasirrao7@gmail.com](mailto:abdullahnasirrao7@gmail.com)
 * 💼 **LinkedIn Profile:** [linkedin.com/in/rao-abdullah-rajput](https://www.linkedin.com/in/rao-abdullah-rajput)
 * 🌐 **Personal Portfolio:** [raoabullah.github.io/RaoAbdullah.github.io](https://raoabullah.github.io/RaoAbdullah.github.io/)
 * 🚀 **Live SaaS Tool:** [PrepMaster on Vercel](https://raoabullah.github.io/Interviewpractice/)
 * 📱 **Phone / WhatsApp:** +92 319 2936615
-* 📍 **Location:** Jamshoro, Sindh, Pakistan
+* 📍 **Location:** Islamabad / Karachi / Jamshoro, Pakistan
 
 <div align="center">
   <sub>Designed & Maintained by Rao Abdullah Nasir • Updated November 2026</sub>
